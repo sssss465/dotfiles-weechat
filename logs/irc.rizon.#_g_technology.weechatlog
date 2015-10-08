@@ -1,0 +1,673 @@
+2015-10-07 16:47:11	-->	shinobu_ (~Andrew@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-07 16:47:11	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-07 16:47:11	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-07 16:47:12	ℹ 	Channel #/g/technology: 280 nicks (4 ops, 7 halfops, 10 voices, 259 normals)
+2015-10-07 16:47:13	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-07 16:48:11	@alusion	hmm
+2015-10-07 16:49:46	<--	RougeR__ (~RougeR@A55D6AAE.767ACBD6.80FCCE34.IP) has quit (Read error: Connection reset by peer)
+2015-10-07 16:49:55	-->	RougeR (~RougeR@A55D6AAE.767ACBD6.80FCCE34.IP) has joined #/g/technology
+2015-10-07 16:51:33	<--	NeoGenesis (~Neo@Neo) has quit (Ping timeout: 240 seconds)
+2015-10-07 16:53:02	-->	Senj (~Senji@DE9A57D5.39B550B1.EF6E7C63.IP) has joined #/g/technology
+2015-10-07 16:53:28	<--	Senji (~Senji@senji.senj) has quit (Read error: Connection reset by peer)
+2015-10-07 23:00:52	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-07 23:00:52	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-07 23:00:52	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-07 23:00:52	ℹ 	Channel #/g/technology: 297 nicks (4 ops, 7 halfops, 9 voices, 277 normals)
+2015-10-07 23:00:54	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-07 23:03:54	<--	cognitios (~cognitios@Rizon-948335C.intrstar.net) has quit (Ping timeout: 240 seconds)
+2015-10-07 23:05:41	-->	cognitios (~cognitios@Rizon-948335C.intrstar.net) has joined #/g/technology
+2015-10-07 23:05:42	Combot	​pls no bulli
+2015-10-07 23:07:45	<--	sebbu (~sebbu@sebbu.dyndns.com) has quit (Remote host closed the connection)
+2015-10-07 23:08:23	-->	joka (~joka@Rizon-A961B1CA.dial.nortenet.pt) has joined #/g/technology
+2015-10-07 23:08:57	-->	sebbu (~sebbu@Rizon-91FD6EBF.w83-194.abo.wanadoo.fr) has joined #/g/technology
+2015-10-07 23:08:59	-->	gudrunguelderrose96 (~gudrungue@BFD6993C.CF52758C.F549CB82.IP) has joined #/g/technology
+2015-10-07 23:11:22	<--	Kopta (~Kopta@end.sifen.whaling) has quit (Read error: Connection reset by peer)
+2015-10-07 23:13:41	-->	KlausedSource (~KlausedSo@Rizon-4EC169F9.dynamic.kabel-deutschland.de) has joined #/g/technology
+2015-10-07 23:16:35	-->	apt-get (~apt-get@yuigahama.yui.suki.suki) has joined #/g/technology
+2015-10-07 23:17:35	-->	conker (~conker@DF190ECD.ABF0EDBE.A7993126.IP) has joined #/g/technology
+2015-10-07 23:19:24	-->	Skwid (~Skwid@Len.is.best.shota) has joined #/g/technology
+2015-10-07 23:20:18	-->	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has joined #/g/technology
+2015-10-07 23:23:09	<--	matachines (~juan@E754DB0F.A6872D69.4F8F8063.IP) has quit (Ping timeout: 240 seconds)
+2015-10-07 23:23:26	<--	QuiZNo (~QuiZNo@ayy.lmao.ayy.lmao) has quit (Ping timeout: 240 seconds)
+2015-10-07 23:24:39	<--	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has quit (Ping timeout: 240 seconds)
+2015-10-07 23:25:32	-->	matachines (~juan@3C8D4AD5.A6872D69.4F8F8063.IP) has joined #/g/technology
+2015-10-07 23:27:35	<--	Politik (~Politik@Real.Politik) has quit (Read error: Connection reset by peer)
+2015-10-07 23:27:57	-->	Kirkland_Signature (cgiirc@Rizon-A9BB8232.hfc.comcastbusiness.net) has joined #/g/technology
+2015-10-07 23:28:07	-->	Politik (~Politik@Real.Politik) has joined #/g/technology
+2015-10-07 23:33:09	<--	CIA_Script_writer (~CIA_Scrip@Rizon-2C97BA18.ias.bredband.telia.com) has quit (Ping timeout: 240 seconds)
+2015-10-07 23:33:54	<--	Kurokin (~Kurokin@kuro.kin) has quit (Read error: Connection reset by peer)
+2015-10-07 23:34:15	GreyMan	Where were you when archive.moe  was kill
+2015-10-07 23:34:42	cognitios	is it ded?
+2015-10-07 23:34:46	cognitios	or just down?
+2015-10-07 23:35:27	GreyMan	https://archive.moe
+2015-10-07 23:35:27	Combot	[URL] Response Code: 410 (archive.moe)
+2015-10-07 23:35:33	GreyMan	>gone
+2015-10-07 23:37:11	cognitios	well fuck
+2015-10-07 23:37:28	<--	Zephyrin (~opp@i.kinshi) has quit (Quit: Leaving)
+2015-10-07 23:38:46	-->	DeusVult (~Stupickle@i.lost.control.of.my.life) has joined #/g/technology
+2015-10-07 23:41:26	<--	chompy (~UPP@akihabara.nerd.rule) has quit (Ping timeout: 240 seconds)
+2015-10-07 23:41:43	Uncled1023	KittyKatt: hi
+2015-10-07 23:42:34	<--	matachines (~juan@3C8D4AD5.A6872D69.4F8F8063.IP) has quit (Ping timeout: 240 seconds)
+2015-10-07 23:44:32	<--	Shamo (~Shamo@CDF960F9:2EA6FD9:FD1CCA59:IP) has quit (Read error: Connection reset by peer)
+2015-10-07 23:46:42	GreyMan	.pingme
+2015-10-07 23:47:07	Uncled1023	.pingme
+2015-10-07 23:47:08	Combot	Uncled1023, your ping is 455 Milliseconds
+2015-10-07 23:48:18	+emgram769	.pingme
+2015-10-07 23:48:21	Combot	emgram769, your ping is 3 Seconds, 156 Milliseconds
+2015-10-07 23:48:24	+emgram769	jesus
+2015-10-07 23:50:10	GreyMan	>andchat doesnt show the ping response
+2015-10-07 23:51:07	-->	ascospore (~ascospore@38097C81.A2BE0C96.5266FBB4.IP) has joined #/g/technology
+2015-10-07 23:51:28	<--	emgram769 (~emgram@1D326D0B.47ACD49C.8219CF21.IP) has quit (Quit: leaving)
+2015-10-07 23:51:53	-->	emgram769 (~emgram@1D326D0B.47ACD49C.8219CF21.IP) has joined #/g/technology
+2015-10-07 23:51:53	ℹ 	Mode #/g/technology [+v emgram769] by ChanServ
+2015-10-07 23:51:53	Combot	​is this tech support?
+2015-10-07 23:53:04	<--	gudrunguelderrose96 (~gudrungue@BFD6993C.CF52758C.F549CB82.IP) has quit (Ping timeout: 240 seconds)
+2015-10-07 23:53:43	-->	gzk (~gzk@606E817E.6508E7CA.AA9A04ED.IP) has joined #/g/technology
+2015-10-07 23:54:59	GreyMan	Well fug
+2015-10-07 23:55:19	GreyMan	I lost my keys
+2015-10-08 00:00:26	-->	chompy (~UPP@FA90BAC9.531A220A.8CC72F0E.IP) has joined #/g/technology
+2015-10-08 00:02:41	ℹ 	Kirkland_Signature is now known as Amanda_Todd
+2015-10-08 00:02:57	ℹ 	Amanda_Todd is now known as Kirkland_Signature
+2015-10-08 00:13:32	-->	advi (~advi@jewish.reptilian) has joined #/g/technology
+2015-10-08 00:13:32	ℹ 	Mode #/g/technology [+v advi] by ChanServ
+2015-10-08 00:13:32	Combot	​>tfw no OpenGL 4.x bf
+2015-10-08 00:15:17	-->	madman-kun (~we@8D50FBE4.2A569432.993D78D0.IP) has joined #/g/technology
+2015-10-08 00:16:58	<--	ihon (~we@8D50FBE4.2A569432.993D78D0.IP) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:19:18	<--	Kirkland_Signature (cgiirc@Rizon-A9BB8232.hfc.comcastbusiness.net) has quit (Quit: http://www.mibbit.com ajax IRC Client)
+2015-10-08 00:21:19	-->	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has joined #/g/technology
+2015-10-08 00:21:53	<--	iamsog (~best_bra@Rizon-ABE1C91A.bb.online.no) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:21:59	-->	tingol (~tingol@Rizon-C5F8AC1E.dynamic.isp.telekom.rs) has joined #/g/technology
+2015-10-08 00:22:28	<--	erg0dic_ (~wegbuio@693E0E77.852FB61A.44B9545F.IP) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:23:03	-->	gussi (~gussi@safrole.e) has joined #/g/technology
+2015-10-08 00:23:27	-->	invoker (~invoker@7607771B.14974AA6.D4840A55.IP) has joined #/g/technology
+2015-10-08 00:25:10	<--	nostrada (~nost@Rizon-7679F6E8.red.bezeqint.net) has quit (Quit: This computer has gone to sleep)
+2015-10-08 00:25:39	<--	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:26:24	<--	conker (~conker@DF190ECD.ABF0EDBE.A7993126.IP) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:28:18	-->	nostrada (~nost@Rizon-7679F6E8.red.bezeqint.net) has joined #/g/technology
+2015-10-08 00:30:32	-->	erg0dic_ (~wegbuio@52936186:30914EC0:401B2A04:IP) has joined #/g/technology
+2015-10-08 00:35:28	<--	RougeR (~RougeR@A55D6AAE.767ACBD6.80FCCE34.IP) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:36:25	<--	DN-boards1 (~DN-boards@D9BDA315:9A0DDB25:5A742A29:IP) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:36:49	-->	RougeR (~RougeR@A55D6AAE.767ACBD6.80FCCE34.IP) has joined #/g/technology
+2015-10-08 00:37:15	-->	CosmoERROR (~goat@Rizon-88DEB5AB.tamulink.tamu.edu) has joined #/g/technology
+2015-10-08 00:37:41	<--	invoker (~invoker@7607771B.14974AA6.D4840A55.IP) has quit (Remote host closed the connection)
+2015-10-08 00:38:13	<--	cognitios (~cognitios@Rizon-948335C.intrstar.net) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:39:13	-->	deathroll (~d@Rizon-1E03BA0E.toya.net.pl) has joined #/g/technology
+2015-10-08 00:39:46	ℹ 	CosmoERROR is now known as Sausage
+2015-10-08 00:41:01	<--	gzk (~gzk@606E817E.6508E7CA.AA9A04ED.IP) has quit (Quit: leaving)
+2015-10-08 00:41:46	ℹ 	Sausage is now known as Cosmonaut
+2015-10-08 00:42:52	<--	gagarin (~gagarin@vhost.goes.here) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:43:08	-->	fuqj0 (~fuqjo@99A441BE:DE5D6F8:275702D0:IP) has joined #/g/technology
+2015-10-08 00:43:35	-->	injected (~injected@plz.find.me) has joined #/g/technology
+2015-10-08 00:45:33	<--	ascospore (~ascospore@38097C81.A2BE0C96.5266FBB4.IP) has quit (Remote host closed the connection)
+2015-10-08 00:50:01	-->	milfhunter (~qwebirc@AB3C08D9.9AFF36A8.1295013D.IP) has joined #/g/technology
+2015-10-08 00:50:21	milfhunter	what OS should I use if I want to get into hacking?
+2015-10-08 00:50:45	Uncled1023	gentoo
+2015-10-08 00:50:54	Uncled1023	hands down
+2015-10-08 00:51:45	milfhunter	thanks bud. So with gentoo will I be able to hack into websites and all that?
+2015-10-08 00:55:23	Uncled1023	mhm, it has good hacking tools like facebook hacker
+2015-10-08 00:56:28	<--	chompy (~UPP@akihabara.nerd.rule) has quit (Ping timeout: 240 seconds)
+2015-10-08 00:58:02	-->	gagarin (~gagarin@8BA36EFB.EA3B7B64.CBE73D5D.IP) has joined #/g/technology
+2015-10-08 00:58:02	Combot	​fap
+2015-10-08 00:59:20	Politik	lol
+2015-10-08 01:00:05	herbst	.decide fap or suicide
+2015-10-08 01:00:05	Relayer	herbst: fap
+2015-10-08 01:00:05	Combot	Absolutly fap
+2015-10-08 01:00:09	herbst	ok
+2015-10-08 01:00:44	&ne	>fapping
+2015-10-08 01:01:43	-->	Zephyrin (~opp@i.kinshi) has joined #/g/technology
+2015-10-08 01:02:27	-->	chompy (~UPP@FA90BAC9.531A220A.8CC72F0E.IP) has joined #/g/technology
+2015-10-08 01:03:04	milfhunter	guys, I have an awful pain in my foot. It's a pain I get from time to time and I'm sure there's a name for it. I'm looking for someone to identify the name for me. What IRC channels could help me with this?
+2015-10-08 01:06:27	<--	milfhunter (~qwebirc@AB3C08D9.9AFF36A8.1295013D.IP) has quit (Connection closed)
+2015-10-08 01:07:32	&ne	rip
+2015-10-08 01:08:40	-->	pablotron (~paulwhat@CC0CA26F:A1AFCBD4:970EB546:IP) has joined #/g/technology
+2015-10-08 01:11:18	<--	weemsledeux (~frodo@Rizon-3FA39455.dhcp.stls.mo.charter.com) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2015-10-08 01:12:58	-->	Ckat (~cat@nippon.php.jp) has joined #/g/technology
+2015-10-08 01:12:58	ℹ 	Mode #/g/technology [+v Ckat] by ChanServ
+2015-10-08 01:12:58	Combot	​.... or you could do it tomorrow instead of right now.
+2015-10-08 01:14:10	computerman	Uncled1023: how do i hack the planet
+2015-10-08 01:17:03	<--	shinobu_ (~shinobu_@anime.land) has left #/g/technology (sleep)
+2015-10-08 01:17:16	-->	shinobu_ (~shinobu_@anime.land) has joined #/g/technology
+2015-10-08 01:17:16	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 01:17:16	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 01:17:16	ℹ 	Channel #/g/technology: 301 nicks (4 ops, 7 halfops, 11 voices, 279 normals)
+2015-10-08 01:17:19	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 01:19:54	%Kunoichi	i just ordered another 200 dollar thinkpad.
+2015-10-08 01:20:39	%Kunoichi	old ones screen keeps dying.
+2015-10-08 01:21:05	computerman	can i have the old one
+2015-10-08 01:21:20	%Kunoichi	how much
+2015-10-08 01:21:39	%Kunoichi	and ill probably swap out the ssd and ram
+2015-10-08 01:22:12	computerman	lots of love
+2015-10-08 01:22:20	-->	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has joined #/g/technology
+2015-10-08 01:22:30	shinobu_	Kunoichi: where do you get them
+2015-10-08 01:22:46	%Kunoichi	eb
+2015-10-08 01:22:57	%Kunoichi	ebay
+2015-10-08 01:23:23	<--	Phyrexian (~Phyrexian@ADAEA047:FA09DBBB:59E11F06:IP) has quit (Ping timeout: 240 seconds)
+2015-10-08 01:23:30	-->	Rhyzik (~Rhyzik@Rizon-5B6925F6.stny.res.rr.com) has joined #/g/technology
+2015-10-08 01:23:51	-->	NeoGenesis (~Neo@Neo) has joined #/g/technology
+2015-10-08 01:26:33	<--	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has quit (Ping timeout: 240 seconds)
+2015-10-08 01:27:58	<--	Leros (~Leros@Rizon-71A27611.user.veloxzone.com.br) has quit (Read error: Connection reset by peer)
+2015-10-08 01:29:45	%Kunoichi	oh cool, juice ssh had mosh the whole time.
+2015-10-08 01:29:49	<--	yourstruly (~yourstrul@7BC317AD.71C3AFBF.642E126.IP) has quit (Quit: yourstruly)
+2015-10-08 01:31:18	+greenbagels	I can't decide between juicessh and connectbot
+2015-10-08 01:32:01	%Kunoichi	idk qbout connectbot.
+2015-10-08 01:32:21	computerman	lol i tried both, i prefer juicessh
+2015-10-08 01:33:24	&ne	I use juicessh because it supports mosh
+2015-10-08 01:33:48	computerman	I use juicessh cuz i can swipe left and right
+2015-10-08 01:33:50	%Kunoichi	juice has a higher rating.
+2015-10-08 01:34:05	computerman	connectbot has a qt logo tho
+2015-10-08 01:34:25	%Kunoichi	also, id say mosh is important for mobile sshing
+2015-10-08 01:35:59	-->	Phyrexian (~Phyrexian@CD84B7C0:4D6A4BF4:59E11F06:IP) has joined #/g/technology
+2015-10-08 01:35:59	Combot	​this is madness~
+2015-10-08 01:36:11	-->	Siouxsie (Siouxsie@all.these.moments.will.be.lost.in.time.like.tears.in.rain) has joined #/g/technology
+2015-10-08 01:36:12	ℹ 	Mode #/g/technology [+v Siouxsie] by ChanServ
+2015-10-08 01:36:12	Combot	​http://a.1339.cf/muvkaby.webm
+2015-10-08 01:36:51	-->	Jmtrix (~qed@feyn.man) has joined #/g/technology
+2015-10-08 01:37:39	<--	advi (~advi@jewish.reptilian) has quit (Quit: Leaving)
+2015-10-08 01:37:53	<--	vitimiti (~Celtor@A50D8F24.E0F9B790.B4ABE9FD.IP) has quit (Remote host closed the connection)
+2015-10-08 01:37:53	<--	paper (~androirc@Rizon-3098FE5D.san.res.rr.com) has quit (Quit: leaving)
+2015-10-08 01:38:00	-->	luis_ (~luis@Rizon-53853549.nat.asu.edu) has joined #/g/technology
+2015-10-08 01:38:58	-->	advi (~advi@jewish.reptilian) has joined #/g/technology
+2015-10-08 01:38:58	ℹ 	Mode #/g/technology [+v advi] by ChanServ
+2015-10-08 01:38:58	Combot	​>tfw no stumpwm 1.x-stable bf
+2015-10-08 01:40:30	-->	l4m (~l4m@24E3C5E2:81ECD0E8:1EC77540:IP) has joined #/g/technology
+2015-10-08 01:40:57	-->	pgx3 (pgx3@Rizon-FE91F0C8.dyn.telefonica.de) has joined #/g/technology
+2015-10-08 01:41:51	<--	pgx3 (pgx3@Rizon-FE91F0C8.dyn.telefonica.de) has left #/g/technology
+2015-10-08 01:43:54	<--	Creator (~Creator@89441D7A:B2862B58:DA3F5B74:IP) has quit (Quit: Leaving)
+2015-10-08 01:47:17	Zephyrin	I still can't figure out how to update the jdk in mint
+2015-10-08 01:47:29	Zephyrin	or at least to get eclipse to recognize that I have
+2015-10-08 01:47:49	-->	CIA_Script_writer (~CIA_Scrip@Rizon-2C97BA18.ias.bredband.telia.com) has joined #/g/technology
+2015-10-08 01:50:32	Zephyrin	and in typical fashion I figure it out about a minute after I complain on irc
+2015-10-08 01:52:51	<--	King_Hual (~failed@li.fe) has quit (Quit: Leaving)
+2015-10-08 01:53:01	-->	King_Hual (~failed@li.fe) has joined #/g/technology
+2015-10-08 01:57:03	slackR	Zephyrin: I think you are lucky
+2015-10-08 01:58:46	%Kunoichi	i cant find my laptop on network discovery
+2015-10-08 02:00:11	herbst	whats network discovetry
+2015-10-08 02:00:30	%Kunoichi	a port scanning app
+2015-10-08 02:00:38	computerman	xD
+2015-10-08 02:02:40	slackR	computerman: yo
+2015-10-08 02:02:52	computerman	hi slackR 
+2015-10-08 02:03:00	slackR	how is/was your day?
+2015-10-08 02:03:35	⚡	slackR is not sure whether computerman is from east or west
+2015-10-08 02:03:48	computerman	i didn't go to school :DDDDDDDD
+2015-10-08 02:04:25	computerman	skool drools isolation roolz
+2015-10-08 02:04:41	slackR	hehe. true.
+2015-10-08 02:05:22	slackR	so I guess you havin a good day.
+2015-10-08 02:05:28	herbst	u hikikimori nag asaki ooga booga computerman ?
+2015-10-08 02:05:57	computerman	no man i got uni and i'm too poor to be hiki afterwards
+2015-10-08 02:07:30	-->	gzk (~gzk@Rizon-A37D1D0D.cm.sunflower.com) has joined #/g/technology
+2015-10-08 02:08:56	slackR	>tfw you cant be a Hikikomori
+2015-10-08 02:09:08	-->	weemsledeux (~frodo@Rizon-3FA39455.dhcp.stls.mo.charter.com) has joined #/g/technology
+2015-10-08 02:09:08	slackR	.intro view
+2015-10-08 02:09:31	slackR	.intro del 8
+2015-10-08 02:09:31	Combot	Introduction #8 has been deleted.
+2015-10-08 02:10:05	computerman	slackR: u still haven't told me how to become enlightened
+2015-10-08 02:10:44	slackR	lel.even idk. Im on a hunt
+2015-10-08 02:11:01	Uncled1023	a lion hunt
+2015-10-08 02:11:12	Vordaa	that feel when you're such a massive nerd that you get nostalgic about transit buses
+2015-10-08 02:11:43	computerman	that feel when transite buses are still a thing for you
+2015-10-08 02:12:24	Vordaa	Sorry to hear that you live in America bro
+2015-10-08 02:12:52	computerman	ree
+2015-10-08 02:14:05	Vordaa	http://www.cptdb.ca/wiki/index.php?title=File:Coast_Mountain_Bus_Company_7115-a.jpg they're retiring these buses in Vancouver after over 20 years and I gotta say I'm gonna miss the fuckers.
+2015-10-08 02:14:07	Combot	[URL] Response Code: 404 (www.cptdb.ca)
+2015-10-08 02:14:39	<--	Senji (~Senji@senji.senj) has quit (Read error: Connection reset by peer)
+2015-10-08 02:15:04	Vordaa	I grew up riding those shake machines to school
+2015-10-08 02:15:23	Vordaa	they shook like a blender when idling
+2015-10-08 02:15:28	Vordaa	smooth once they got going
+2015-10-08 02:16:37	slackR	Vordaa: i know the feels. ;_;
+2015-10-08 02:16:59	slackR	computerman: you dont like buses?
+2015-10-08 02:17:07	Vordaa	tfw I care more about buses being retired than I do about actual humans dying
+2015-10-08 02:17:33	computerman	fuck buses
+2015-10-08 02:17:41	Vordaa	wow rude
+2015-10-08 02:18:00	⚡	computerman lights a bus on fire
+2015-10-08 02:18:21	Vordaa	slackR, my favourite buses though were our old 1982 trolleybuses, last ones retired in 2009 ;_;
+2015-10-08 02:18:28	Vordaa	http://www.cptdb.ca/wiki/index.php?title=File:Coast_Mountain_Bus_Company_2870-a.jpg they were a special order made only for Vancouver
+2015-10-08 02:18:30	Combot	[URL] Response Code: 404 (www.cptdb.ca)
+2015-10-08 02:18:41	slackR	Vordaa: oh!
+2015-10-08 02:19:09	slackR	computerman: what do you like?
+2015-10-08 02:19:15	slackR	cars?
+2015-10-08 02:19:19	Vordaa	they were da best even though the roof leaked the bus creaked and groaned, and they smelled like sadness
+2015-10-08 02:19:44	computerman	i like trains
+2015-10-08 02:19:58	Vordaa	>liking trains but not buses
+2015-10-08 02:20:01	Vordaa	you some kind of hipster
+2015-10-08 02:20:13	-->	Rawriful (~ICraveCon@Rizon-EA49C75D.as13285.net) has joined #/g/technology
+2015-10-08 02:20:41	slackR	computerman: no sad feels but I honestly like buses over trains.:D
+2015-10-08 02:20:52	Vordaa	We have cool trains in Vancouver though, they're automatic and are powered by MAGNETS
+2015-10-08 02:21:33	slackR	thats cool.
+2015-10-08 02:21:38	computerman	trains help depressed people
+2015-10-08 02:21:50	slackR	how?
+2015-10-08 02:21:55	Vordaa	>inb4 suicide joke
+2015-10-08 02:22:04	slackR	^
+2015-10-08 02:22:20	Vordaa	http://www.cptdb.ca/wiki/images/0/04/SkyTrain_UTDC_028-a.jpg centre rail is a goddamn 60 kilometre long magnet
+2015-10-08 02:22:20	Combot	[image/jpeg] Size: 130.17 KB
+2015-10-08 02:23:22	-->	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has joined #/g/technology
+2015-10-08 02:23:24	slackR	magnetic trains work on which concept?
+2015-10-08 02:23:29	Vordaa	and they couldn't even ground out the 600V DC to the running rails because the trains have microlift during acceleration, so they have a 600 negative Volt DC
+2015-10-08 02:23:36	Vordaa	slackR, linear induction motor
+2015-10-08 02:24:01	Vordaa	https://en.wikipedia.org/wiki/Linear_induction_motor
+2015-10-08 02:24:02	Combot	[URL] Linear induction motor - Wikipedia, the free encyclopedia (en.wikipedia.org)
+2015-10-08 02:24:07	slackR	thanks 
+2015-10-08 02:24:13	computerman	wroom wroom
+2015-10-08 02:24:22	⚡	computerman hovers silently
+2015-10-08 02:24:37	Vordaa	the noise they make during acceleration is unique, never heard it anywhere else in the world
+2015-10-08 02:25:08	Vordaa	https://www.youtube.com/watch?v=UDi2EWTdhP4
+2015-10-08 02:25:09	Combot	Skytrain MK1 car departing Granville Station | Length: 0:00:16 | Rating: 7 Likes, 0 Dislike (100%) | Views: 4012 | Uploaded By: busdude on Mon, 22 Mar 2010 00:02:14 GMT
+2015-10-08 02:27:13	<--	luis_ (~luis@Rizon-53853549.nat.asu.edu) has quit (Ping timeout: 240 seconds)
+2015-10-08 02:27:28	slackR	Vordaa: I thought they were noiseless
+2015-10-08 02:27:28	<--	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has quit (Ping timeout: 240 seconds)
+2015-10-08 02:27:30	slackR	:|
+2015-10-08 02:27:36	Vordaa	nope
+2015-10-08 02:28:05	Vordaa	the newer trains are quieter (they somehow moved the noise outside the human ear spectrum) but still noisy, but in a different way
+2015-10-08 02:28:20	-->	conker (~conker@Rizon-BEEFCB6D.dynamic.mundo-r.com) has joined #/g/technology
+2015-10-08 02:28:52	-->	oem (~moedeloos@jihadist.loli) has joined #/g/technology
+2015-10-08 02:29:14	computerman	(they make you want to kill people
+2015-10-08 02:30:00	slackR	Vordaa: we have metro trains here. which has a somewhat similar sound. 
+2015-10-08 02:30:04	computerman	the spooky screeching noises in metro 2033 bothered me so much
+2015-10-08 02:30:31	slackR	computerman: trains make you want to kill people?
+2015-10-08 02:30:59	⚡	slackR is surprised
+2015-10-08 02:31:49	computerman	it's the CIA's new high frequency sonic cannon man
+2015-10-08 02:34:07	slackR	do you love Japan?
+2015-10-08 02:34:43	computerman	no
+2015-10-08 02:34:54	-->	xDonx (~androirc@C629BF5:A214403B:A0B60094:IP) has joined #/g/technology
+2015-10-08 02:35:00	slackR	oh
+2015-10-08 02:36:05	-->	Senji (~Senji@DE9A57D5.39B550B1.EF6E7C63.IP) has joined #/g/technology
+2015-10-08 02:36:26	xDonx	sup
+2015-10-08 02:36:55	-->	matachines (~juan@342E4FAE.C55D5C0D.4F8F8063.IP) has joined #/g/technology
+2015-10-08 02:37:05	<--	xDonx (~androirc@C629BF5:A214403B:A0B60094:IP) has quit
+2015-10-08 02:37:16	computerman	:D
+2015-10-08 02:40:15	<--	Leissi (~Leissi@Chiptek.Superstar) has quit (Read error: Connection reset by peer)
+2015-10-08 02:40:29	Rawriful	I love japan
+2015-10-08 02:40:33	Rawriful	one japan please
+2015-10-08 02:41:34	+emgram769	how do you stop irssi from attempting reconnects to an invalid server address?
+2015-10-08 02:41:45	ℹ 	emgram769 is now known as bwasti
+2015-10-08 02:42:00	ℹ 	bwasti is now known as emgram769
+2015-10-08 02:42:18	jumi	delete the server/turn off auto connect
+2015-10-08 02:43:37	ffl|lappy	emgram769: /rmreconns
+2015-10-08 02:43:57	+emgram769	that worked, thanks ffl|lappy 
+2015-10-08 02:46:00	ffl|lappy	no worries
+2015-10-08 02:49:28	Uncled1023	s/.*/WITNESS ME/
+2015-10-08 02:49:29	Combot	Uncled1023 meant to say: WITNESS ME
+2015-10-08 02:49:29	sed	<Uncled1023> WITNESS ME
+2015-10-08 02:50:54	computerman	WITNESSED
+2015-10-08 02:51:05	⚡	computerman nods respectfully towards you
+2015-10-08 02:51:18	⚡	Uncled1023 sprays silver paint on teeth
+2015-10-08 02:51:33	⚡	Uncled1023 jumps into fire ball of awesome
+2015-10-08 02:51:55	<--	advi (~advi@jewish.reptilian) has quit (Quit: Leaving)
+2015-10-08 02:52:39	-->	IronGames_Xd (~qwebirc@2F914BDE.73C187A5.FE3EEAB9.IP) has joined #/g/technology
+2015-10-08 02:52:51	computerman	ur too old and fat to be a warboy Uncled1023 
+2015-10-08 02:52:57	Uncled1023	>fat
+2015-10-08 02:53:07	<--	IronGames_Xd (~qwebirc@2F914BDE.73C187A5.FE3EEAB9.IP) has quit
+2015-10-08 02:53:08	computerman	did you see them
+2015-10-08 02:53:12	computerman	ur too fat
+2015-10-08 02:53:13	Uncled1023	have you seen me?
+2015-10-08 02:53:18	computerman	yeah
+2015-10-08 02:53:20	computerman	ur a qt
+2015-10-08 02:54:36	-->	bonGo (~bongo@Rizon-DA3BDCD7.rutgers.edu) has joined #/g/technology
+2015-10-08 02:56:19	slackR	lel
+2015-10-08 02:56:58	slackR	im sleepy
+2015-10-08 02:57:05	bonGo	go to bed heh
+2015-10-08 02:57:06	bonGo	hehe
+2015-10-08 02:57:36	slackR	ttyl #/g/technology . bye computerman bonGo 
+2015-10-08 02:58:12	computerman	bye :(
+2015-10-08 02:58:13	oem	https://youtu.be/GDiOmviCq3U
+2015-10-08 02:58:14	Combot	Oregon shooting: 4chan users post 'beta-uprising' jokes before UCC school shooting - TomoNews | Length: 0:01:17 | Rating: 1160 Likes, 37 Dislikes (96.9%) | Views: 110846 | Uploaded By: Taiwanese Animators on Fri, 02 Oct 2015 13:28:15 GMT
+2015-10-08 02:59:26	computerman	the normie branding gets me every time
+2015-10-08 03:00:14	-->	urodna (~urodna@dank.memer) has joined #/g/technology
+2015-10-08 03:02:53	+emgram769	that worked, thanks ffl|lappy 
+2015-10-08 03:05:04	ffl|lappy	emgram769: Repeat on purpose?
+2015-10-08 03:09:38	<--	MrFantastik (~me@Rizon-145E5654.bcstcmtk03.res.dyn.suddenlink.net) has quit (Ping timeout: 240 seconds)
+2015-10-08 03:12:02	injected	opinions on libreoffice vs wps-office?
+2015-10-08 03:12:36	computerman	is https just http over ssl
+2015-10-08 03:13:55	<--	matachines (~juan@342E4FAE.C55D5C0D.4F8F8063.IP) has quit (Ping timeout: 240 seconds)
+2015-10-08 03:13:58	-->	luis_ (~luis@Rizon-6EBA9D66.nat.asu.edu) has joined #/g/technology
+2015-10-08 03:14:00	<--	Syne (~hex@41A5A9EE.CFC2E90.7986DF33.IP) has quit (Quit: leaving)
+2015-10-08 03:14:37	-->	Syne (~hex@Rizon-43A0F1E0.range86-160.btcentralplus.com) has joined #/g/technology
+2015-10-08 03:15:30	cflag	computerman: yes
+2015-10-08 03:15:40	cflag	computerman: Other way around
+2015-10-08 03:15:43	cflag	SSL over HTTP
+2015-10-08 03:16:25	computerman	no man http over ssl
+2015-10-08 03:16:38	<--	Zephyrin (~opp@i.kinshi) has quit (Ping timeout: 240 seconds)
+2015-10-08 03:16:46	computerman	http thru ssl
+2015-10-08 03:17:12	cflag	ssl is the crypto that runs over http
+2015-10-08 03:17:18	cflag	http is the protocol
+2015-10-08 03:17:52	-->	RagginTaggin (~RagginTag@Rizon-79FEFA29.dyn.optonline.net) has joined #/g/technology
+2015-10-08 03:17:58	cflag	.quote cflag
+2015-10-08 03:18:05	Combot	[cflag] .bots
+2015-10-08 03:18:10	cflag	.quote cflag
+2015-10-08 03:18:17	Combot	[cflag] Too many mormons
+2015-10-08 03:18:39	<--	RagginTaggin (~RagginTag@ima.chiraq.savage) has quit
+2015-10-08 03:18:56	<--	Syne (~hex@Rizon-43A0F1E0.range86-160.btcentralplus.com) has quit
+2015-10-08 03:19:17	-->	RagginTaggin (~RagginTag@Rizon-79FEFA29.dyn.optonline.net) has joined #/g/technology
+2015-10-08 03:19:22	-->	Syne (~hex@Rizon-43A0F1E0.range86-160.btcentralplus.com) has joined #/g/technology
+2015-10-08 03:19:30	<--	RagginTaggin (~RagginTag@ima.chiraq.savage) has quit
+2015-10-08 03:19:39	-->	RagginTaggin (~RagginTag@Rizon-79FEFA29.dyn.optonline.net) has joined #/g/technology
+2015-10-08 03:19:48	<--	nostrada (~nost@Rizon-7679F6E8.red.bezeqint.net) has quit (Quit: This computer has gone to sleep)
+2015-10-08 03:20:02	Uncled1023	.quote
+2015-10-08 03:20:11	Combot	[oh_hi] idk
+2015-10-08 03:20:15	<--	injected (~injected@plz.find.me) has left #/g/technology (WeeChat 1.4-dev)
+2015-10-08 03:21:00	cflag	Uncled1023: you should make teknik replace a file request with an add at a random interval, make mad ad revenue
+2015-10-08 03:21:06	-->	Zephyrin (~opp@i.kinshi) has joined #/g/technology
+2015-10-08 03:21:18	cflag	nobody would even notice (^:
+2015-10-08 03:21:25	Uncled1023	;)
+2015-10-08 03:22:23	<--	RagginTaggin (~RagginTag@ima.chiraq.savage) has quit
+2015-10-08 03:23:28	<--	KlausedSource (~KlausedSo@Rizon-4EC169F9.dynamic.kabel-deutschland.de) has quit (Quit: Leaving)
+2015-10-08 03:24:17	-->	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has joined #/g/technology
+2015-10-08 03:25:14	-->	jayexx (~jx759000@kanade.2016) has joined #/g/technology
+2015-10-08 03:25:14	Combot	​It is better to spend one day völkisch than it is to spend a lifetime degenerate.
+2015-10-08 03:28:53	<--	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has quit (Ping timeout: 240 seconds)
+2015-10-08 03:33:42	-->	sono (~sono@Rizon-9E247E1A.dsl.pltn13.sbcglobal.net) has joined #/g/technology
+2015-10-08 03:34:33	<--	para (~paranoia@BA274B0.14559A6.E9719487.IP) has quit (Quit: ->)
+2015-10-08 03:35:34	-->	para (~paranoia@BA274B0.14559A6.E9719487.IP) has joined #/g/technology
+2015-10-08 03:38:37	-->	Syne_ (~hex@Rizon-43A0F1E0.range86-160.btcentralplus.com) has joined #/g/technology
+2015-10-08 03:38:51	<--	Syne_ (~hex@Rizon-43A0F1E0.range86-160.btcentralplus.com) has quit
+2015-10-08 03:39:34	-->	Syne_ (~hex@Rizon-43A0F1E0.range86-160.btcentralplus.com) has joined #/g/technology
+2015-10-08 03:41:01	-->	RagginTaggin (~RagginTag@Rizon-79FEFA29.dyn.optonline.net) has joined #/g/technology
+2015-10-08 03:42:20	<--	Syne_ (~hex@Rizon-43A0F1E0.range86-160.btcentralplus.com) has quit
+2015-10-08 03:53:18	ℹ 	irc: disconnected from server
+2015-10-08 03:53:30	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 03:53:30	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 03:53:30	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 03:53:30	ℹ 	Channel #/g/technology: 305 nicks (4 ops, 7 halfops, 11 voices, 283 normals)
+2015-10-08 03:53:31	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 04:02:24	ℹ 	irc: disconnected from server
+2015-10-08 04:02:37	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 04:02:37	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 04:02:37	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 04:02:37	ℹ 	Channel #/g/technology: 306 nicks (5 ops, 7 halfops, 11 voices, 283 normals)
+2015-10-08 04:02:38	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 04:11:30	ℹ 	irc: disconnected from server
+2015-10-08 04:11:43	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 04:11:43	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 04:11:43	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 04:11:43	ℹ 	Channel #/g/technology: 307 nicks (5 ops, 7 halfops, 11 voices, 284 normals)
+2015-10-08 04:11:45	@alusion	nope i ;listenecd to the ost tho
+2015-10-08 04:11:45	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 04:12:18	Marci-Tan	chameleon coffee is pretty good
+2015-10-08 04:20:36	ℹ 	irc: disconnected from server
+2015-10-08 04:20:49	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 04:20:49	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 04:20:49	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 04:20:49	ℹ 	Channel #/g/technology: 306 nicks (5 ops, 6 halfops, 11 voices, 284 normals)
+2015-10-08 04:20:53	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 04:29:42	ℹ 	irc: disconnected from server
+2015-10-08 04:29:55	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 04:29:55	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 04:29:55	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 04:29:55	ℹ 	Channel #/g/technology: 306 nicks (5 ops, 6 halfops, 11 voices, 284 normals)
+2015-10-08 04:29:57	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 04:30:00	ButchDeLoria	https://twitter.com/JeremyClarkson/status/651809264483336192 it begins
+2015-10-08 04:30:01	Combot	[URL] Jeremy Clarkson on Twitter: "With a skeleton crew, filming for Amazon Prime's new motoring programme has begun. http://t.co/8PaYvke... (twitter.com)
+2015-10-08 04:38:48	ℹ 	irc: disconnected from server
+2015-10-08 04:39:01	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 04:39:01	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 04:39:01	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 04:39:01	ℹ 	Channel #/g/technology: 307 nicks (5 ops, 6 halfops, 11 voices, 285 normals)
+2015-10-08 04:39:02	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 04:47:54	ℹ 	irc: disconnected from server
+2015-10-08 04:48:07	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 04:48:07	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 04:48:07	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 04:48:07	ℹ 	Channel #/g/technology: 308 nicks (5 ops, 6 halfops, 11 voices, 286 normals)
+2015-10-08 04:48:08	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 04:57:00	ℹ 	irc: disconnected from server
+2015-10-08 04:57:13	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 04:57:13	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 04:57:13	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 04:57:13	ℹ 	Channel #/g/technology: 307 nicks (5 ops, 6 halfops, 11 voices, 285 normals)
+2015-10-08 04:57:17	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 04:57:25	@alusion	i got it
+2015-10-08 04:57:45	&ne	alusion: http://technocracy.irc.so:8000/love's_sorrow.m4a
+2015-10-08 04:57:46	Combot	[URL] #/g/technology (technocracy.irc.so)
+2015-10-08 05:06:06	ℹ 	irc: disconnected from server
+2015-10-08 05:06:19	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 05:06:19	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 05:06:19	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 05:06:19	ℹ 	Channel #/g/technology: 307 nicks (5 ops, 7 halfops, 10 voices, 285 normals)
+2015-10-08 05:06:22	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 05:06:36	@alusion	ne today is gunna be a good day
+2015-10-08 05:06:49	&ne	it already is
+2015-10-08 05:15:12	ℹ 	irc: disconnected from server
+2015-10-08 05:15:24	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 05:15:24	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 05:15:24	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 05:15:24	ℹ 	Channel #/g/technology: 307 nicks (5 ops, 7 halfops, 10 voices, 285 normals)
+2015-10-08 05:15:26	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 05:15:59	<--	ruukasu (~ruukasu@onetwoseven.zero.zero.one) has quit (Remote host closed the connection)
+2015-10-08 05:15:59	<--	apt-get (~apt-get@yuigahama.yui.suki.suki) has quit (Ping timeout: 240 seconds)
+2015-10-08 05:24:18	ℹ 	irc: disconnected from server
+2015-10-08 05:24:32	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 05:24:32	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 05:24:32	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 05:24:32	ℹ 	Channel #/g/technology: 304 nicks (5 ops, 7 halfops, 10 voices, 282 normals)
+2015-10-08 05:24:35	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 05:33:24	ℹ 	irc: disconnected from server
+2015-10-08 05:33:37	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 05:33:37	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 05:33:37	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 05:33:37	ℹ 	Channel #/g/technology: 304 nicks (5 ops, 7 halfops, 10 voices, 282 normals)
+2015-10-08 05:33:38	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 05:34:01	-->	_TechBot_ (~TechBot@1D11E923.DAF918B6.C23F0A01.IP) has joined #/g/technology
+2015-10-08 05:42:30	ℹ 	irc: disconnected from server
+2015-10-08 05:42:43	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 05:42:43	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 05:42:43	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 05:42:43	ℹ 	Channel #/g/technology: 304 nicks (5 ops, 7 halfops, 10 voices, 282 normals)
+2015-10-08 05:42:44	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 05:51:36	ℹ 	irc: disconnected from server
+2015-10-08 05:51:48	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 05:51:48	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 05:51:48	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 05:51:48	ℹ 	Channel #/g/technology: 303 nicks (5 ops, 7 halfops, 10 voices, 281 normals)
+2015-10-08 05:51:50	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 06:00:42	ℹ 	irc: disconnected from server
+2015-10-08 06:00:56	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 06:00:56	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 06:00:56	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 06:00:56	ℹ 	Channel #/g/technology: 305 nicks (5 ops, 7 halfops, 10 voices, 283 normals)
+2015-10-08 06:00:59	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 06:01:14	<--	jayexx (~jx759000@kanade.2016) has quit (Ping timeout: 240 seconds)
+2015-10-08 06:01:22	vitimiti	\(·.·(
+2015-10-08 06:09:48	ℹ 	irc: disconnected from server
+2015-10-08 06:10:01	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 06:10:01	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 06:10:01	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 06:10:01	ℹ 	Channel #/g/technology: 303 nicks (5 ops, 7 halfops, 10 voices, 281 normals)
+2015-10-08 06:10:03	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 06:10:33	-->	scissors (~androirc@Rizon-3098FE5D.san.res.rr.com) has joined #/g/technology
+2015-10-08 06:18:54	ℹ 	irc: disconnected from server
+2015-10-08 06:19:07	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 06:19:07	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 06:19:07	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 06:19:07	ℹ 	Channel #/g/technology: 303 nicks (5 ops, 7 halfops, 10 voices, 281 normals)
+2015-10-08 06:19:08	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 06:19:09	+Tadpole	BeefEats: Also, SICPBot has always had floodcontrol. It's just more accurate now, to catch the latest wave of mass highlights.
+2015-10-08 06:19:15	&ne	oh, the bigpond guy
+2015-10-08 06:19:26	ℹ 	Mode #/g/technology [+b *!*@*bigpond.net.au] by ne
+2015-10-08 06:28:00	ℹ 	irc: disconnected from server
+2015-10-08 06:28:12	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 06:28:12	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 06:28:12	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 06:28:12	ℹ 	Channel #/g/technology: 300 nicks (5 ops, 7 halfops, 10 voices, 278 normals)
+2015-10-08 06:28:14	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 06:28:44	ffl|lappy	mofukka: buy a trashcan mac instead
+2015-10-08 06:28:45	-->	DesertFremen (~FearIs@the.mind.killer) has joined #/g/technology
+2015-10-08 06:37:06	ℹ 	irc: disconnected from server
+2015-10-08 06:37:19	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 06:37:19	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 06:37:19	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 06:37:19	ℹ 	Channel #/g/technology: 301 nicks (5 ops, 7 halfops, 10 voices, 279 normals)
+2015-10-08 06:37:21	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 06:37:23	@alusion	https://twitter.com/officialjanusvr
+2015-10-08 06:37:33	@alusion	we have a cool twitter page
+2015-10-08 06:37:52	@alusion	janusVR community
+2015-10-08 06:46:12	ℹ 	irc: disconnected from server
+2015-10-08 06:46:24	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 06:46:24	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 06:46:24	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 06:46:24	ℹ 	Channel #/g/technology: 299 nicks (5 ops, 7 halfops, 10 voices, 277 normals)
+2015-10-08 06:46:26	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 06:55:18	ℹ 	irc: disconnected from server
+2015-10-08 06:55:31	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 06:55:31	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 06:55:31	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 06:55:31	ℹ 	Channel #/g/technology: 300 nicks (5 ops, 7 halfops, 11 voices, 277 normals)
+2015-10-08 06:55:33	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 06:55:40	Flygon	alusion
+2015-10-08 06:55:42	ℹ 	Sue_Lyon is now known as faggy
+2015-10-08 06:55:44	+yossarian	spry: should be a decent job, well paying considering i'm in uni
+2015-10-08 06:55:50	Flygon	i hear you are a forefront in VR these days
+2015-10-08 07:04:24	ℹ 	irc: disconnected from server
+2015-10-08 07:04:36	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 07:04:36	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 07:04:36	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 07:04:36	ℹ 	Channel #/g/technology: 300 nicks (5 ops, 7 halfops, 11 voices, 277 normals)
+2015-10-08 07:04:38	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 07:04:39	ℹ 	scissors is now known as dr_scissors
+2015-10-08 07:05:07	<--	RagginTaggin (~RagginTag@ima.chiraq.savage) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2015-10-08 07:13:30	ℹ 	irc: disconnected from server
+2015-10-08 07:13:44	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 07:13:44	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 07:13:44	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 07:13:44	ℹ 	Channel #/g/technology: 299 nicks (5 ops, 7 halfops, 11 voices, 276 normals)
+2015-10-08 07:13:48	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 07:13:54	+yossarian	o/ tacocat 
+2015-10-08 07:22:36	ℹ 	irc: disconnected from server
+2015-10-08 07:22:49	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 07:22:49	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 07:22:49	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 07:22:49	ℹ 	Channel #/g/technology: 300 nicks (5 ops, 7 halfops, 11 voices, 277 normals)
+2015-10-08 07:22:52	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 07:31:42	ℹ 	irc: disconnected from server
+2015-10-08 07:31:55	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 07:31:55	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 07:31:55	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 07:31:55	ℹ 	Channel #/g/technology: 304 nicks (5 ops, 7 halfops, 11 voices, 281 normals)
+2015-10-08 07:31:56	⚡	yossarian doesn't know why a book rental company is doing that
+2015-10-08 07:31:57	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 07:32:17	tacocat	Hey, did anyone here ever work at a place like geek squad or some computer repair place etc?
+2015-10-08 07:32:24	+yossarian	not me
+2015-10-08 07:32:27	<--	Jmtrix (~qed@feyn.man) has quit (Quit: Leaving)
+2015-10-08 07:40:48	ℹ 	irc: disconnected from server
+2015-10-08 07:41:00	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 07:41:00	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 07:41:00	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 07:41:00	ℹ 	Channel #/g/technology: 301 nicks (5 ops, 7 halfops, 11 voices, 278 normals)
+2015-10-08 07:41:00	+yossarian	oh kk
+2015-10-08 07:41:02	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 07:41:02	gzk	for students
+2015-10-08 07:41:05	Politik	>I'm actually against that. Leadership should go to those that want to lead and make things happen. Seniority is not necessarily a part of it. Heck, you don't even need to be a programmer.
+2015-10-08 07:41:17	+yossarian	i'm probably gonna ask for $20 an hour from this place
+2015-10-08 07:41:24	+yossarian	i'd settle for $15
+2015-10-08 07:41:33	tacocat	Hey yossarian, when you say to look at local IT companies btw, do you need much knowledge to do it? 
+2015-10-08 07:49:54	ℹ 	irc: disconnected from server
+2015-10-08 07:50:07	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 07:50:07	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 07:50:07	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 07:50:07	ℹ 	Channel #/g/technology: 301 nicks (5 ops, 7 halfops, 11 voices, 278 normals)
+2015-10-08 07:50:09	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 07:50:38	+mofukka	https://www.youtube.com/watch?v=OQuceU3x2Ww
+2015-10-08 07:50:39	Combot	Putin Tells Everyone Exactly Who Created ISIS | Length: 0:07:12 | Rating: 4531 Likes, 106 Dislikes (97.7%) | Views: 365766 | Uploaded By: TRUTHstreammedia on Thu, 01 Oct 2015 21:13:57 GMT
+2015-10-08 07:59:00	ℹ 	irc: disconnected from server
+2015-10-08 07:59:13	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 07:59:13	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 07:59:13	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 07:59:13	ℹ 	Channel #/g/technology: 299 nicks (5 ops, 7 halfops, 11 voices, 276 normals)
+2015-10-08 07:59:14	@alusion	i still havent had coffee
+2015-10-08 07:59:15	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 07:59:17	@alusion	my brain is bonkers
+2015-10-08 07:59:24	+mofukka	i got my coffee this morning
+2015-10-08 07:59:25	Flygon	alusion i just built my own computer
+2015-10-08 07:59:26	@alusion	cowboys and indians
+2015-10-08 07:59:26	+mofukka	im juiced
+2015-10-08 07:59:36	+mofukka	coffee makes me feel inhuman tho
+2015-10-08 07:59:39	Flygon	czech out the stats https://u.teknik.io/IEWxKg.PNG
+2015-10-08 07:59:39	Combot	[image/png] Size: 51.29 KB
+2015-10-08 07:59:40	+mofukka	like any stimulant
+2015-10-08 08:08:06	ℹ 	irc: disconnected from server
+2015-10-08 08:08:19	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 08:08:19	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 08:08:19	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 08:08:19	ℹ 	Channel #/g/technology: 298 nicks (5 ops, 7 halfops, 11 voices, 275 normals)
+2015-10-08 08:08:22	+mofukka	honestly
+2015-10-08 08:08:23	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 08:08:25	+mofukka	i just need some more tweaker friends
+2015-10-08 08:08:26	+mofukka	with dirtbikes
+2015-10-08 08:08:35	+mofukka	for what i wanna do
+2015-10-08 08:08:45	+mofukka	fuck da bullshit
+2015-10-08 08:17:12	ℹ 	irc: disconnected from server
+2015-10-08 08:17:25	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 08:17:25	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 08:17:25	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 08:17:25	ℹ 	Channel #/g/technology: 299 nicks (5 ops, 7 halfops, 11 voices, 276 normals)
+2015-10-08 08:17:27	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 08:26:18	ℹ 	irc: disconnected from server
+2015-10-08 08:26:31	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 08:26:31	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 08:26:31	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 08:26:31	ℹ 	Channel #/g/technology: 302 nicks (5 ops, 7 halfops, 11 voices, 279 normals)
+2015-10-08 08:26:35	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 08:35:24	ℹ 	irc: disconnected from server
+2015-10-08 08:35:37	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 08:35:37	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 08:35:37	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 08:35:37	ℹ 	Channel #/g/technology: 301 nicks (5 ops, 7 halfops, 10 voices, 279 normals)
+2015-10-08 08:35:39	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 08:44:30	ℹ 	irc: disconnected from server
+2015-10-08 08:44:42	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 08:44:42	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 08:44:42	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 08:44:42	ℹ 	Channel #/g/technology: 302 nicks (5 ops, 7 halfops, 10 voices, 280 normals)
+2015-10-08 08:44:44	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 08:45:03	@alusion	yeah got a new computer desk
+2015-10-08 08:45:13	⚡	alusion picks up tacocat and shows
+2015-10-08 08:45:15	<--	softkitty (~softkitty@Rizon-D87CFA7C.nat.lancs.ac.uk) has left #/g/technology (Leaving)
+2015-10-08 08:53:36	ℹ 	irc: disconnected from server
+2015-10-08 08:53:49	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 08:53:49	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 08:53:49	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 08:53:49	ℹ 	Channel #/g/technology: 300 nicks (4 ops, 7 halfops, 10 voices, 279 normals)
+2015-10-08 08:53:51	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 08:53:53	-->	joshuathenerd (~Joshua@Rizon-6D8B7EA5.sw.biz.rr.com) has joined #/g/technology
+2015-10-08 08:54:17	<--	Jelmer (~Jelmer@Rizon-9B4C49A3.speed.planet.nl) has quit (Remote host closed the connection)
+2015-10-08 09:02:42	ℹ 	irc: disconnected from server
+2015-10-08 09:02:54	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 09:02:54	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 09:02:54	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 09:02:54	ℹ 	Channel #/g/technology: 301 nicks (4 ops, 7 halfops, 10 voices, 280 normals)
+2015-10-08 09:02:56	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 09:02:59	<--	RagginTa_ (~RagginTag@Rizon-605A6B70.dyn.optonline.net) has quit
+2015-10-08 09:11:48	ℹ 	irc: disconnected from server
+2015-10-08 09:12:01	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 09:12:01	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 09:12:01	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 09:12:01	ℹ 	Channel #/g/technology: 299 nicks (4 ops, 7 halfops, 10 voices, 278 normals)
+2015-10-08 09:12:03	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 09:12:04	notatangerine	You can get one for free on Startssl.
+2015-10-08 09:12:09	-->	spry (~spry@Rizon-19BCAB86.lightspeed.irvnca.sbcglobal.net) has joined #/g/technology
+2015-10-08 09:12:09	Combot	​Just fuck my shit up bruh
+2015-10-08 09:20:54	ℹ 	irc: disconnected from server
+2015-10-08 09:21:06	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 09:21:06	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 09:21:06	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:51
+2015-10-08 09:21:06	ℹ 	Channel #/g/technology: 301 nicks (4 ops, 7 halfops, 10 voices, 280 normals)
+2015-10-08 09:21:08	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 09:30:00	ℹ 	irc: disconnected from server
+2015-10-08 09:30:14	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 09:30:14	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 09:30:14	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 09:30:14	ℹ 	Channel #/g/technology: 299 nicks (4 ops, 7 halfops, 10 voices, 278 normals)
+2015-10-08 09:30:18	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 09:30:40	-->	Shabba_ (~Shabbas@Rizon-FA87B735.dyn.optonline.net) has joined #/g/technology
+2015-10-08 09:38:25	ℹ 	irc: disconnected from server
+2015-10-08 09:38:37	-->	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has joined #/g/technology
+2015-10-08 09:38:37	ℹ 	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Ch. Site: https://teknik.io/ /!\ What do you want to improve in the channel?  Tell a mod! /!\ Auto-Voice for active members /!\ Teknikcast Ep10: https://podcast.teknik.io/10 /!\"
+2015-10-08 09:38:37	ℹ 	Topic set by Zanthas (~Zanthas@Misaki.Mei-chan) on Tue, 06 Oct 2015 01:48:01
+2015-10-08 09:38:37	ℹ 	Channel #/g/technology: 298 nicks (4 ops, 7 halfops, 10 voices, 277 normals)
+2015-10-08 09:38:41	ℹ 	Channel created on Wed, 28 Mar 2012 06:32:05
+2015-10-08 09:39:47	-->	nopajjj (~nopaj@Rizon-C3154F27.wb.wifirst.net) has joined #/g/technology
+2015-10-08 09:40:04	BeefEats	https://i.4cdn.org/tg/1444244819675.webm
+2015-10-08 09:40:51	Combot	[Video] Type: webm | Size: 2.03 MB
+2015-10-08 09:42:51	defun	ogodwhatafuck
+2015-10-08 09:42:57	<--	nopajj (~nopaj@Rizon-C3154F27.wb.wifirst.net) has quit (Ping timeout: 240 seconds)
+2015-10-08 09:43:58	-->	joshuathenerd (~Joshua@Rizon-F2C7BE5.dllstx.fios.verizon.net) has joined #/g/technology
+2015-10-08 09:44:13	-->	Politik (~Politik@Real.Politik) has joined #/g/technology
+2015-10-08 09:45:47	<--	shinobu_ (~shinobu_@F210D078.5370C4EA.4EA6AF0A.IP) has left #/g/technology
